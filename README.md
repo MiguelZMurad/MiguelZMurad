@@ -20,7 +20,7 @@ Vitória, ES - Brasil
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Path UFES**](https://github.com/CaioCosta23/Path_UFES) | Planejador de trilha acadêmica: modela a grade de CC/UFES como grafo de pré-requisitos e calcula o caminho para se formar no menor número de semestres. | Python, FastAPI, PostgreSQL, React, Cytoscape.js, Docker |
+| [**Path UFES**]([https://github.com/CaioCosta23/Path_UFES](https://github.com/MiguelZMurad/Path_UFES.git)) | Planejador de trilha acadêmica: modela a grade de CC/UFES como grafo de pré-requisitos e calcula o caminho para se formar no menor número de semestres. | Python, FastAPI, PostgreSQL, React, Cytoscape.js, Docker |
 | [**Predição de preços de imóveis**](LINK_DO_REPOSITORIO) | Modelo de machine learning que prevê o preço de imóveis na Grande Vitória, com dados coletados por scraping do ZAP Imóveis e da OLX. | Python, XGBoost, web scraping |
 | [**Compilador Pascal → WebAssembly**](LINK_DO_REPOSITORIO) | Compilador com análise léxica, sintática e semântica, AST e interpretador. | Java, ANTLR4 |
 | [**Metaheurísticas de otimização**](LINK_DO_REPOSITORIO) | Comparação de Algoritmo Genético, Evolução Diferencial e PSO em funções de benchmark, com análise estatística. | Python, LaTeX |
