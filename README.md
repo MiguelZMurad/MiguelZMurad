@@ -38,4 +38,3 @@ Vitória, ES - Brasil
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:miguelzmurad@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_LINKEDIN)
